@@ -1,0 +1,11 @@
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.deps.json
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.runtimeconfig.json
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.runtimeconfig.dev.json
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.dll
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.pdb
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.csprojAssemblyReference.cache
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.csproj.CoreCompileInputs.cache
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.AssemblyInfoInputs.cache
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.AssemblyInfo.cs
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.dll
+C:\curso\curso\triangulo-de-pascal-con-unos-fluna23\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-fluna23.pdb
